@@ -1,4 +1,4 @@
-examples/
+*.sublime-*
+dist/*.zip
+img/
 test/
-lib/
-.DS_Store
